@@ -1,0 +1,10 @@
+	Polyommatus_admetus	Polyommatus_damocles	Polyommatus_damon	Polyommatus_damone	Polyommatus_eriwanensis	Polyommatus_fulgens	Polyommatus_iphigenia	Polyommatus_pseudactis	Polyommatus_surakovi
+Polyommatus_admetus	0	5	2	3	23	18	11	6	6
+Polyommatus_damocles	5	0	1	6	13	9	8	34	14
+Polyommatus_damon	2	1	0	2	2	1	2	2	2
+Polyommatus_damone	3	6	2	0	4	3	3	7	5
+Polyommatus_eriwanensis	23	13	2	4	0	30	21	15	13
+Polyommatus_fulgens	18	9	1	3	30	0	13	9	6
+Polyommatus_iphigenia	11	8	2	3	21	13	0	13	10
+Polyommatus_pseudactis	6	34	2	7	15	9	13	0	17
+Polyommatus_surakovi	6	14	2	5	13	6	10	17	0
