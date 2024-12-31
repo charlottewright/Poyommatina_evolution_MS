@@ -1,0 +1,79 @@
+#NEXUS
+[R-package APE, Mon Sep 23 17:25:42 2024]
+
+BEGIN TAXA;
+        DIMENSIONS NTAX = 33;
+        TAXLABELS
+                Aricia_artaxerxes
+                Celastrina_argiolus
+                Glaucopsyche_alexis
+                Phengaris_arion
+                Helleia_helle
+                Lycaena_phlaeas
+                Melitaea_cinxia
+                Cyclargus_thomasi
+                Plebejus_argus
+                Cyaniris_semiargus
+                Lysandra_bellargus
+                Lysandra_coridon
+                Lysandra_hispana
+                Polyommatus_admetus
+                Polyommatus_eriwanensis
+                Polyommatus_fulgens
+                Polyommatus_iphigenia
+                Polyommatus_damocles
+                Polyommatus_pseudactis
+                Polyommatus_surakovi
+                Polyommatus_damone
+                Polyommatus_damon
+                Polyommatus_amandus
+                Polyommatus_atlantica
+                Polyommatus_dorylas
+                Polyommatus_celina
+                Polyommatus_icarus
+                Polyommatus_eros
+                Polyommatus_thersites
+                Polyommatus_daphnis
+                Polyommatus_escheri
+                Maurus_vogelii
+                Aricia_agestis
+        ;
+END;
+BEGIN TREES;
+        TRANSLATE
+                1       Aricia_artaxerxes,
+                2       Celastrina_argiolus,
+                3       Glaucopsyche_alexis,
+                4       Phengaris_arion,
+                5       Helleia_helle,
+                6       Lycaena_phlaeas,
+                7       Melitaea_cinxia,
+                8       Cyclargus_thomasi,
+                9       Plebejus_argus,
+                10      Cyaniris_semiargus,
+                11      Lysandra_bellargus,
+                12      Lysandra_coridon,
+                13      Lysandra_hispana,
+                14      Polyommatus_admetus,
+                15      Polyommatus_eriwanensis,
+                16      Polyommatus_fulgens,
+                17      Polyommatus_iphigenia,
+                18      Polyommatus_damocles,
+                19      Polyommatus_pseudactis,
+                20      Polyommatus_surakovi,
+                21      Polyommatus_damone,
+                22      Polyommatus_damon,
+                23      Polyommatus_amandus,
+                24      Polyommatus_atlantica,
+                25      Polyommatus_dorylas,
+                26      Polyommatus_celina,
+                27      Polyommatus_icarus,
+                28      Polyommatus_eros,
+                29      Polyommatus_thersites,
+                30      Polyommatus_daphnis,
+                31      Polyommatus_escheri,
+                32      Maurus_vogelii,
+                33      Aricia_agestis
+        ;
+        TREE * UNTITLED = [&U] (1:0.0180296188,((((((2:0.1656038532,(3:0.0703136748,4:0.0751565913)40-g92.33-s67.27-q95.58:0.0616476)39-g65.38-s27.5-q66.77:0.0426728779,((5:0.0993897598,6:0.1124026691)42-g97.13-s73.01-q97.65:0.2598242738,7:0.9177615075)41-g95.31-s42.33-q96.87:0.292262638)38-g91.58-s59.39-q94.97:0.0958817885,8:0.1823857713)37-g84.53-s63.31-q89.98:0.0444285624,9:0.0792597306)36-g30.87-s40.82-q45.2:0.0068705747,10:0.0638503)35-g16.65-s27.42-q39.6:0.0037159887,(((11:0.022133064,(12:0.0232948423,13:0.0273236796)46-g38.01-s35.68-q38.49:0.0036285236)45-g91.35-s59.43-q96.07:0.0435710147,(((((((14:0.026145492,(15:0.0272391063,16:0.0216778243)54-g31.83-s36.15-q41.36:0.0032337588)53-g40.42-s46.8-q65.41:0.0089980175,17:0.0314475834)52-g10.65-s31.75-q34.6:0.0027177363,(((18:0.0232954571,19:0.0229767613)57-g49.46-s55.55-q63.29:0.0086027354,20:0.0336350236)56-g17.84-s39.56-q42.43:0.0035070064,21:0.0372743813)55-g9.61-s33.07-q37.07:0.0025676503)51-g53.61-s49.32-q77.82:0.0142510436,22:0.0508174751)50-g33.38-s41.56-q61.28:0.0087209977,(23:0.0607444113,(((24:0.0374133682,25:0.0268355458)61-g80.96-s60.19-q87.75:0.0297031169,((26:0.0291385122,27:0.0242592691)63-g69.91-s69.22-q74.81:0.0156217253,28:0.0453083352)62-g45.16-s28.24-q62.32:0.009829227)60-g17.17-s44.91-q45.06:0.0040741876,29:0.0609062413)59-g6.03-s34.85-q37.67:0.0017721543)58-g3.6-s33.06-q33.93:0.0019855054)49-g6.58-s33.44-q39.63:0.0033726831,30:0.0564250227)48-g15.57-s36.37-q41.86:0.0034706088,31:0.0646853278)47-g44.05-s33.33-q66.72:0.0084799041)44-g43.61-s33.12-q65.92:0.0084056893,32:0.0787085057)43-g18.14-s29.61-q41.33:0.0032242555)34-g96.29-s88.81-q97.48:0.0533800996,33:0.020249846)33;
+END;
