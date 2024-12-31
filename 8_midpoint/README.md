@@ -6,7 +6,7 @@ Data needed to plot chromosome length variation across Polyommatina as shown in 
 
 [simulated_variation](<https://github.com/charlottewright/Poyommatina_evolution_MS/tree/main/8_midpoint/simulated_variation>)
 
-Data needed to compare observed variation in chromosome lengths to expected variation under a model of random fission, as shown in the histograms of Figure 6B.
+Script needed to simulate fissions under a model of random fission with a minimum chromosome size and data needed to compare observed variation in chromosome lengths to simulated variation in fission, as shown in the histograms of Figure 6B.
 
 [fission_length](<https://github.com/charlottewright/Poyommatina_evolution_MS/tree/main/8_midpoint/fission_lengths>)
 
