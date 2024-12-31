@@ -10,4 +10,4 @@ Script needed to simulate fissions under a model of random fission with a minimu
 
 [fission_length](<https://github.com/charlottewright/Poyommatina_evolution_MS/tree/main/8_midpoint/fission_lengths>)
 
-Data needed to plot number of fissions derived from each ancestral chromosome, for each species of Lysandra, as shown in Figures 6D, 6E and 6F.
+Data and code needed to plot number of fissions derived from each ancestral chromosome, for each species of Lysandra, as shown in Figures 6D, 6E and 6F.
